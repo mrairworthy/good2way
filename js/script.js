@@ -1,7 +1,7 @@
 (() => {
   'use strict';
 
-  // Replace this with the final App Store URL as soon as the app is live.
+  // Official good2way App Store listing.
   const APP_STORE_URL = 'https://apps.apple.com/de/app/good2way/id6758906298';
 
   const header = document.querySelector('[data-header]');
